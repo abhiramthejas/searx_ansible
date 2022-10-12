@@ -1,0 +1,11 @@
+service_install:
+  - docker
+
+service_list:
+ - docker
+ 
+docker_network:
+ - searxng
+
+host_url: search.abhiramthejas.online
+instance: my_search_engine
